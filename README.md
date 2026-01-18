@@ -13,10 +13,6 @@ Este repositório foi desenvolvido como parte de um exercício prático para dom
 
 O projeto resolve o problema de gerenciar listas dinâmicas de forma eficiente. Ele demonstra como adicionar, renderizar e remover itens de um array de estado, refletindo essas mudanças instantaneamente na interface do usuário (UI) sem recarregamentos de página.
 
-## 🖼️ Demonstração Visual
-
-*(Se o projeto estiver hospedado na Vercel, Netlify ou GitHub Pages, insira o link aqui. Ex: [Acesse a Demo](URL))*
-
 ## 🛠️ Tecnologias Utilizadas
 
 A stack tecnológica é baseada no padrão de SPAs modernas:
